@@ -1,26 +1,32 @@
-- Mapa de Carreira
+🚀 Mapa de Carreira
 
-Projeto desenvolvido com base nos meus estudos, com o objetivo de organizar e visualizar a evolução profissional de forma clara, prática e intuitiva.
+  Projeto desenvolvido com base nos meus estudos, com o objetivo de organizar e visualizar a evolução profissional de forma clara e prática.
 
-- Sobre o projeto
+📌 Sobre o projeto
 
-O Mapa de Carreira é uma aplicação que ajuda no planejamento profissional, permitindo visualizar metas, etapas e evolução ao longo do tempo.
-A ideia é transformar objetivos em ações organizadas, facilitando o acompanhamento do crescimento na área de tecnologia.
+  O Mapa de Carreira é uma aplicação voltada ao planejamento profissional, permitindo visualizar metas, etapas e progresso ao longo do tempo.
 
-- Objetivo
+🎯 Objetivo
   Organizar metas profissionais
   Acompanhar evolução de carreira
-  Definir próximos passos de forma clara
-  Manter foco no desenvolvimento contínuo
- 
-- Funcionalidades
+  Definir próximos passos com clareza
+
+💻 Funcionalidades
   Criação de metas
   Organização por etapas
   Visualização do progresso
-  Estrutura simples e intuitiva
   
-- Aprendizado
-  Esse projeto foi desenvolvido com base nos meus estudos, colocando em prática conceitos de desenvolvimento e organização de sistemas.
+🧠 Aprendizado
+  Projeto desenvolvido para aplicar na prática conhecimentos adquiridos em estudos na área de tecnologia.
 
-Desenvolvido por Nalbert Henri 🚀
-Em constante evolução na área de tecnologia.
+🚀 Como rodar o projeto
+  git clone https://github.com/seu-usuario/seu-repositorio.git
+  cd seu-repositorio
+  
+📌 Melhorias futuras
+  Sistema de login
+  Integração com banco de dados
+  Novas funcionalidades
+  
+✍️ Autor
+  Nalbert Henri 🚀
