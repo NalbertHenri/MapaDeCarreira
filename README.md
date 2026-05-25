@@ -18,15 +18,6 @@
   
 🧠 Aprendizado
   Projeto desenvolvido para aplicar na prática conhecimentos adquiridos em estudos na área de tecnologia.
-
-🚀 Como rodar o projeto
-  git clone https://github.com/seu-usuario/seu-repositorio.git
-  cd seu-repositorio
-  
-📌 Melhorias futuras
-  Sistema de login
-  Integração com banco de dados
-  Novas funcionalidades
   
 ✍️ Autor
   Nalbert Henri 🚀
